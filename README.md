@@ -4,13 +4,13 @@
 
 - 💻 I’m currently working at [Vivo - Telefónica Brasil](https://www.vivo.com.br/)
 - 📚 Studying Computer Engineering at Instituto Mauá de Tecnologia
-- 🌱 Preparing for the AZ-900 certification
+- 🌱 Preparing for the RH124 RedHat certification
 - 📈 Continuously improving my programming and system administration skills
 - 📲 Feel free to [contact me](mailto:matheus.bernardello@live.com)
 
 ## I'm currently learning...🐧
 - Advanced Linux administration
-- Preparing for the AZ-900 certification
+- Preparing for the RH124 RedHat certification
 - Enhancing my programming skills in Python, Shell Script, and JavaScript
 - Exploring Vim for efficient text editing
 <div>
