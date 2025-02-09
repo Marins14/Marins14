@@ -3,7 +3,7 @@
 ### A passionate Computer Engineering student and a Linux enthusiast always eager to learn and explore new technologies.
 
 - 💻 I’m currently working at [Vivo - Telefónica Brasil](https://www.vivo.com.br/)
-- 📚 Studying Computer Engineering at Instituto Mauá de Tecnologia
+- 📚 Graduated Computer Engineering at Instituto Mauá de Tecnologia
 - 🌱 Preparing for the RH124 RedHat certification
 - 📈 Continuously improving my programming and system administration skills
 - 📲 Feel free to [contact me](mailto:matheus.bernardello@live.com)
