@@ -10,7 +10,7 @@
 
 ## I'm currently learning...🐧
 - Advanced Linux administration
-- Preparing for the RH124 RedHat certification
+- Preparing for the EX200 RedHat certification
 - Enhancing my programming skills in Python, Shell Script, and JavaScript
 - Exploring Vim for efficient text editing
 <div>
