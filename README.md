@@ -29,7 +29,7 @@ I maintain a homelab where I experiment with various technologies, simulate real
   - **Jellyfin**: Media server
   - **Samba**: File sharing service
 - **Monitoring**: Using Grafana with Prometheus for comprehensive system monitoring
-- **Some Scripts and configs**: [Take a look!](https://github.com/Marins14/Bash-Shell/tree/main/Projeto_Servidor)
+- **Some Scripts and configs**: [Take a look!](https://github.com/Marins14/Bash-Shell/tree/main/Server_Project)
   
 ## Some of my knowledge 📝
 I have hands-on experience in various programming languages and technologies, including:
