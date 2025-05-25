@@ -4,7 +4,7 @@
 
 - 💻 I’m currently working at [Vivo - Telefónica Brasil](https://www.vivo.com.br/)
 - 📚 Graduated Computer Engineering at Instituto Mauá de Tecnologia
-- 🌱 Preparing for the RH124 RedHat certification
+- 🌱 Preparing for the EX200 RedHat certification
 - 📈 Continuously improving my programming and system administration skills
 - 📲 Feel free to [contact me](mailto:matheus.bernardello@live.com)
 
